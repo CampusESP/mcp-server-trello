@@ -3,5 +3,10 @@
   "version": "1.7.1-vendor.980a50f",
   "description": "CampusESP vendored build of delorenj/mcp-server-trello@980a50f (MIT). Self-contained build/index.js; runtime deps bundled. Source manifest preserved in parent commit 980a50f.",
   "type": "module",
-  "bin": { "mcp-server-trello": "build/index.js" }
+  "bin": {
+    "mcp-server-trello": "build/index.js"
+  },
+  "files": [
+    "build/index.js"
+  ]
 }
